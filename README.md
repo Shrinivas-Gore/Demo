@@ -1,4 +1,4 @@
 # Demo
 First repository using git.
 <br>
-Author-Shrinivas Gore
+Author-Shrinivas Gore(Vibrant Mind)
